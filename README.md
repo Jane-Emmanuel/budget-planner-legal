@@ -1,4 +1,4 @@
-# Simple Budget Planner – Privacy & Terms
+# A Simple Budget Planner – Privacy & Terms
 
 This repository contains the official **Privacy Policy** and **Terms & Conditions** for the **Simple Budget Planner** app.
 
