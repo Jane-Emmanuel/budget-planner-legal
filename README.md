@@ -17,9 +17,9 @@ These files provide:
 - Legal protection for the developer
 - Compliance with Google Play Store policies for apps containing affiliate links or in-app promotional content.
 
-https://Jane-Emmanuel.github.io/budget-planner-legal/privacy-policy.html
+https://github.com/Jane-Emmanuel/budget-planner-legal/privacy-policy.html
 
-https://Jane-Emmanuel.github.io/budget-planner-legal/terms.html
+https://github.com/Jane-Emmanuel/budget-planner-legal/terms.html
 
 ## Contact
 
